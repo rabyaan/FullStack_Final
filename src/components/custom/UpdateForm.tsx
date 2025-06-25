@@ -36,7 +36,7 @@ export default function SwitchForm() {
 
     return (
         <Form {...form}>
-            <form onSubmit={form.handleSubmit(onSubmit)} className="w-full ">
+            <form onSubmit={form.handleSubmit(onSubmit)} className="w-full">
                 <div>
                     <div >
 
